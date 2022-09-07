@@ -3,12 +3,13 @@
 ### Download Link [One Drive](https://o365jbnu-my.sharepoint.com/:f:/g/personal/talha_student_jbnu_ac_kr/EtY7EzFK6LhEq2ibaVmK_V4BP712j8fZNUuz7DaqiZGFlA?e=QMWVhH)
 
 ### SS1K Dataset
-
+[Paper]()
 ### Strawberry Disease Dataset
-
+[Paper]()
 ### Strawberry Crown Dataset
-
+[Paper]()
 ### Strawberry Center Point Dataset
+[Paper]()
 
 ### Citation
 
